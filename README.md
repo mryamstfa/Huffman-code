@@ -1,2 +1,2 @@
 # Huffman-code
-compress and decompress BMP photos
+compress and decompress by huffman algorithm (simple c++)
